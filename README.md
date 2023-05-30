@@ -39,14 +39,40 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
-## Output:
 
-### Name:
-### Register Number:
+### Name:NIVETHA K
+### Register Number:212222230102
+
+
+1.CAD File
+
+![image](https://github.com/NivethaKumar30/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/5bad90e2-0773-4295-9a78-8f72ed5271ee)
+
+During the pre-processing stage for 3D printing, the CAD file serves as the input for further preparation and optimization before sending it to the 3D printer.The CAD file contains the complete design intent, including the geometry, features, and other details necessary for the 3D printing process.
+
+2. Conversion to STL
+![Uploading image.png…]
+
+In the simulation of pre-processing for 3D printing, "Conversion to STL" refers to the process of exporting or saving the 3D model in the STL (Standard Tessellation Language) file format. STL is one of the most common file formats used in 3D printing due to its simplicity and compatibility with a wide range of 3D printers.
+
+a. Orientation:
+
+![image](https://github.com/NivethaKumar30/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/8381f35b-cb5f-4133-bdf2-8b96f6b6f6a5)
+
+"Orientation" refers to the adjustment of the 3D model's position or alignment in order to optimize its printability and achieve the desired printing outcome.
+
+
+b. Support Structure:
+
+![image](https://github.com/NivethaKumar30/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/5b5720ec-debb-4511-ac2c-fa407b9c9110)
+
+"Support Structure" refers to the generation of additional structures that provide support to overhanging or delicate parts of the 3D model during the printing process.
+
+c. Slicing:
+
+![Uploading image.png…]()
+
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
