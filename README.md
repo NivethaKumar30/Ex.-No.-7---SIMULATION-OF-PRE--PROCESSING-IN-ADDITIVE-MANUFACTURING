@@ -71,7 +71,17 @@ b. Support Structure:
 
 c. Slicing:
 
-![Uploading image.png…]()
+![image](https://github.com/NivethaKumar30/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/b2c4eca7-3dfe-4aa3-adbd-74c61e4f3de5)
+
+
+"Slicing" refers to the process of converting a 3D model into a series of 2D layers that the 3D printer can understand and print. Slicing involves dividing the model into thin horizontal layers and generating the necessary instructions for the printer to recreate each layer.
+
+d. Path Planning:
+
+![image](https://github.com/NivethaKumar30/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/9c687f78-4e4e-439f-a3ab-253033293a4b)
+
+
+"Path Planning" refers to the process of determining the optimal toolpath or movement trajectory for the 3D printer's nozzle or extruder during the printing process. Path planning involves calculating the most efficient and precise pathsto follow for printing each layer of the 3D model.
 
 
 ## Result: 
